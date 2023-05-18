@@ -9,6 +9,4 @@ docker images
 
 # Docker run
 
-'''
-docker run -it --rm -v c:\\Users\\kitri\\df:/df --name ut jeyeon2ee/ut:v2
-'''
+docker run -it --rm -v c:\\Users\\kitri\\df:/df --name ut jeyeon2ee/ut:v2  
